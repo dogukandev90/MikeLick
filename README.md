@@ -1,5 +1,5 @@
 # MikeLick
-Version: v0.1.0
+Version: v0.1
 
 **A minimal terminal game written in Python.**
 
